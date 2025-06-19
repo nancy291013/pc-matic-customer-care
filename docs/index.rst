@@ -8,7 +8,7 @@ If you're using PC Matic and find yourself stuck with a technical issue, billing
    :alt: PC Matic Care
    :width: 400px
    :align: center
-   :target: https://aclogportal.com/kaspersky-login
+   :target: https://accuratelivechat.com
 
 This guide is written in a clear, supportive tone and explains all the ways you can reach out to PC Matic's customer support team. We’ll walk you through where to go, what information to have ready, and how to get the fastest help possible—whether you're dealing with a license issue, installation trouble, or a general inquiry.
 
