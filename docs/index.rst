@@ -4,7 +4,7 @@ How to Contact PC Matic Customer Care?
 
 If you're using PC Matic and find yourself stuck with a technical issue, billing question, or need help understanding a product feature, knowing **how to contact PC Matic customer care** can make all the difference. Whether you're a longtime user or just getting started, having access to responsive and helpful support is essential to getting the most from your antivirus and optimization software.
 
-.. image:: click-download.png
+.. image:: customer-care.png
    :alt: PC Matic Care
    :width: 400px
    :align: center
